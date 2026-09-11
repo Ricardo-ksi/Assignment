@@ -11,8 +11,6 @@
 #include <thread>
 #include <chrono>
 
-// test branch for GitHub demo
-
 using namespace std;
 
 int countUser = 0;
